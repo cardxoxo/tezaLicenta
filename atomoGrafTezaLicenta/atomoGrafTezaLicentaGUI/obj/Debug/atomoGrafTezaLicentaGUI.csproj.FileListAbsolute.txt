@@ -1,0 +1,9 @@
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\atomoGrafTezaLicentaGUI.exe.config
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\atomoGrafTezaLicentaGUI.exe
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\atomoGrafTezaLicentaGUI.pdb
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\obj\Debug\atomoGrafTezaLicentaGUI.csprojResolveAssemblyReference.cache
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\obj\Debug\atomoGrafTezaLicentaGUI.Form1.resources
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\obj\Debug\atomoGrafTezaLicentaGUI.Properties.Resources.resources
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\obj\Debug\atomoGrafTezaLicentaGUI.csproj.GenerateResource.Cache
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\obj\Debug\atomoGrafTezaLicentaGUI.exe
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\obj\Debug\atomoGrafTezaLicentaGUI.pdb

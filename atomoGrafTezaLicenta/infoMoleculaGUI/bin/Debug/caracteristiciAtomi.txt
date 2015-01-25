@@ -1,0 +1,16 @@
+carbon
+tip=C, 
+1.0,0.3,0.1,1.0
+raza=91
+grOxidare=4
+azot
+tip=N, 
+0.0,0.3,0.1,1.0
+raza=92
+grOxidare=4
+oxigen
+tip=O, 
+1.0,1.0,0.1,1.0
+raza=60
+grOxidare=2
+endOfFile

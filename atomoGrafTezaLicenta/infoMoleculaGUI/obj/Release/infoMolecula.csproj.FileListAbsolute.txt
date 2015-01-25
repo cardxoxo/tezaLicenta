@@ -1,0 +1,8 @@
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\bin\Release\atomoGrafTezaLicentaGUI.exe.config
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\bin\Release\atomoGrafTezaLicentaGUI.exe
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\bin\Release\atomoGrafTezaLicentaGUI.pdb
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\obj\Release\atomoGrafTezaLicentaGUI.Form1.resources
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\obj\Release\atomoGrafTezaLicentaGUI.Properties.Resources.resources
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\obj\Release\infoMolecula.csproj.GenerateResource.Cache
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\obj\Release\atomoGrafTezaLicentaGUI.exe
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\infoMoleculaGUI\obj\Release\atomoGrafTezaLicentaGUI.pdb

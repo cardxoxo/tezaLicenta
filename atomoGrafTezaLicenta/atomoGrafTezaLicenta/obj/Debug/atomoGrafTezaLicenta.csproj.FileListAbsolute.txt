@@ -1,0 +1,10 @@
+c:\users\ndv\documents\visual studio 2012\Projects\atomoGrafTezaLicenta\atomoGrafTezaLicenta\bin\Debug\atomoGrafTezaLicenta.exe.config
+C:\Users\NDV\documents\visual studio 2012\Projects\atomoGrafTezaLicenta\atomoGrafTezaLicenta\bin\Debug\atomoGrafTezaLicenta.exe
+C:\Users\NDV\documents\visual studio 2012\Projects\atomoGrafTezaLicenta\atomoGrafTezaLicenta\bin\Debug\atomoGrafTezaLicenta.pdb
+C:\Users\NDV\documents\visual studio 2012\Projects\atomoGrafTezaLicenta\atomoGrafTezaLicenta\obj\Debug\atomoGrafTezaLicenta.exe
+C:\Users\NDV\documents\visual studio 2012\Projects\atomoGrafTezaLicenta\atomoGrafTezaLicenta\obj\Debug\atomoGrafTezaLicenta.pdb
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicenta\bin\Debug\atomoGrafTezaLicenta.exe.config
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicenta\bin\Debug\atomoGrafTezaLicenta.exe
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicenta\bin\Debug\atomoGrafTezaLicenta.pdb
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicenta\obj\Debug\atomoGrafTezaLicenta.exe
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicenta\obj\Debug\atomoGrafTezaLicenta.pdb

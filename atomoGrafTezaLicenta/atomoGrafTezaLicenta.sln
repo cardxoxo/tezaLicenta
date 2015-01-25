@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atomoGrafTezaLicenta", "atomoGrafTezaLicenta\atomoGrafTezaLicenta.csproj", "{9968216D-1757-4EF4-948D-4708D50243DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atomoGrafTezaLicentaGUI", "atomoGrafTezaLicentaGUI\atomoGrafTezaLicentaGUI.csproj", "{8ACE2259-3C05-4EBC-8C0C-6631C7614F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infoMolecula", "infoMoleculaGUI\infoMolecula.csproj", "{BC127B11-F2ED-4A90-8C62-0B6E353BD4A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9968216D-1757-4EF4-948D-4708D50243DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9968216D-1757-4EF4-948D-4708D50243DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9968216D-1757-4EF4-948D-4708D50243DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9968216D-1757-4EF4-948D-4708D50243DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACE2259-3C05-4EBC-8C0C-6631C7614F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACE2259-3C05-4EBC-8C0C-6631C7614F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACE2259-3C05-4EBC-8C0C-6631C7614F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACE2259-3C05-4EBC-8C0C-6631C7614F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC127B11-F2ED-4A90-8C62-0B6E353BD4A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC127B11-F2ED-4A90-8C62-0B6E353BD4A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC127B11-F2ED-4A90-8C62-0B6E353BD4A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC127B11-F2ED-4A90-8C62-0B6E353BD4A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

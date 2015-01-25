@@ -1,0 +1,11 @@
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\UnityEditor.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\UnityEngine.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\nunit.framework.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\obj\Debug\Assembly-CSharp.dll
+C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\izoGraph\obj\Debug\Assembly-CSharp.pdb

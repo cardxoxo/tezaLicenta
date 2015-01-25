@@ -1,0 +1,18 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family (ID=0x2a42)
+    Vendor:   Intel
+    VRAM:     64 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\izoGraph_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\izoGraph_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\izoGraph_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\izoGraph_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+Platform assembly: C:\Users\NDV\Documents\Visual Studio 2012\Projects\teza\atomoGrafTezaLicenta\atomoGrafTezaLicentaGUI\bin\Debug\izoGraph_Data\Managed\System.dll (this message is harmless)
